@@ -55,7 +55,6 @@ func main() {
 	fmt.Println(texto)
 
 	// Em Go todo tipo de dado tem o valor inical(Conhecido como valor 0)
-
 	var booleano bool
 	fmt.Println(booleano)
 
